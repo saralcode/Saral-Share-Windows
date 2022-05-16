@@ -10,5 +10,5 @@ Add icon.ico image in dist > main folder
 
 2. Go to the new option
 
-3. The complete the process
+3. Then complete the process
 
